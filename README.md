@@ -2,4 +2,4 @@
 
 - 🔭 I’m an aspiring beginner, currently working on 🌐 munchies.space
 - 🌱 I’m currently learning JS, React, and Python
-- 🐦 @cosmvs
+- Let's connect 🐦 @0n3z3r0n3
